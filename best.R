@@ -2,7 +2,7 @@
 
 best <- function(state, outcome) {
   
-  ## Read outcome data
+  ## Read outcome data new new
   data <- read.csv("./ProgAssignment3-data/outcome-of-care-measures.csv", colClasses = "character",na.strings="Not Available")
   
   ## Check that state and outcome are valid
